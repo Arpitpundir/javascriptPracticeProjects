@@ -172,3 +172,16 @@ i {
 
 .winner { background-color: #f7f7f7; }
 .winner .player-name { font-weight: 300; color: #EB4D4D; }
+
+#winningScore{
+    font-family: Lato;
+    font-size: 15px;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #FAFBFC;
+    display: block;
+    width: 60vw;
+    height: 30px;
+    text-align: center;
+}
